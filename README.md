@@ -48,7 +48,8 @@ These are validation results; they should not be interpreted as final performanc
 
 ## Application Preview
 
-![Predictive Maintenance Streamlit Dashboard](screenshots/streamlit-app.png)
+![Predictive Maintenance Streamlit Dashboard](screenshots/demo.png)
+
 
 
 ## Running the Application
